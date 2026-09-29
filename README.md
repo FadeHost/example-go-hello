@@ -1,5 +1,7 @@
 # example-go-hello
 
+[![Deploy to FadeHost](https://fadehost.com/deploy-button.svg)](https://laplace.fadehost.com/register?intent=app&repo=https://github.com/FadeHost/example-go-hello)
+
 A hello-world web app in Go, for FadeHost app hosting.
 
 Deploy it from the panel with no start command and no build command: the
